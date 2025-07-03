@@ -2,7 +2,7 @@
 
 ## 1. Study overview
 
-Prior to widespread H1N1 vaccination, healthcare workers (HCWs) faced elevated infection risks, potentially endangering both themselves and vulnerable patients. Following the 2009 H1N1 pandemic, Following the 2009 H1N1 pandemic, we conducted a serological study to estimate the true infection rate among Hong Kong healthcare workers (HCWs), as many cases were missed by clinical reporting.
+Prior to widespread H1N1 vaccination, healthcare workers (HCWs) faced elevated infection risks, potentially endangering both themselves and vulnerable patients. Following the 2009 H1N1 pandemic, Following the 2009 H1N1 pandemic, we conducted a serological study to estimate the true infection rate among HCWs, as many cases were missed by clinical reporting.
 
 Between February and March 2010, we recruited unvaccinated HCWs from six public hospitals. We aimed to enroll at least 500 participants to provide reliable prevalence estimates. Serum samples were analyzed using a viral microneutralization (VN) assay (threshold ≥1:40 for seropositivity), chosen for its higher sensitivity compared to hemagglutination inhibition (HAI). Some samples were also tested via HAI for comparison.
 
