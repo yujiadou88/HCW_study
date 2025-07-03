@@ -18,7 +18,7 @@ We provide our data under the [Open Data Commons Public Domain Dedication and Li
 
 ## 3. Main findings
 
-The primary findings from our main study have been published in [Zhou et al. (2011, JHI)](http://www.ncbi.nlm.nih.gov/pubmed/21501896). Our main findings were that Age-specific antibody prevalence in HCWs did not significantly differ from the general population, suggesting no elevated occupational risk during the first pandemic wave.
+The primary findings from our main study have been published in [Zhou et al. (2011, JHI)](http://www.ncbi.nlm.nih.gov/pubmed/21501896). Our main findings were that age-specific antibody prevalence in HCWs did not significantly differ from the general population, suggesting no elevated occupational risk during the first pandemic wave.
 
 Results described in Zhou et al. (2011) are reproduced in the following scripts which can be run in [R](http://www.r-project.org):
 
