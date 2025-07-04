@@ -1,4 +1,4 @@
-# Hong Kong health care workers study
+# Hong Kong healthcare workers study
 
 ## 1. Study overview
 
